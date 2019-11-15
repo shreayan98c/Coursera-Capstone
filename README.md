@@ -1,2 +1,2 @@
-# Coursera-Capstone
+# Coursera_Capstone
 Project to help deal with geospatial data.
